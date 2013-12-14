@@ -3,7 +3,7 @@
 		"id" : 1,
 		"title" : "Patel Brother",
 		"image_url" : "appicon.png",
-		"address" : "6600 Sawmil road ",
+		"address" : "6600 Sawmil Rd ",
 		"City" : "Columbus",
 		"State" : "OH",
 		"zip" : "43235",
