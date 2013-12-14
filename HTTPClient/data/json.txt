@@ -8,7 +8,7 @@
 		"State" : "OH",
 		"zip" : "43235",
 		"phone" : "(614) 792-8484",
-		"tags" : ["indian", "asian"],
+		"tags" : ["Indian", "Asian"],
 		"working_days" : ["M", "Tu", "W", "Th", "F", "Sa", "Su"],
 		"website" : "http://www.patelbros.com/"
 	}, {
