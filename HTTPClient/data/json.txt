@@ -3,8 +3,14 @@
 		"id" : 1,
 		"title" : "Patel Brother",
 		"image_url" : "appicon.png",
-		"address" : "8800 Sawmil road, Texas",
-		"tags" : ["indian", "asian"]
+		"address" : "6600 Sawmil road ",
+		"City" : "Columbus",
+		"State" : "OH",
+		"zip" : "43235",
+		"phone" : "(614) 792-8484",
+		"tags" : ["indian", "asian"],
+		"working_days" : ["M", "Tu", "W", "Th", "F", "Sa", "Su"],
+		"website" : "http://www.patelbros.com/"
 	}, {
 		"id" : 2,
 		"title" : "Saravanabavan",
