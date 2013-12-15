@@ -3,7 +3,7 @@
 		"id" : 1,
 		"title" : "Patel Brother",
 		"image_url" : "appicon.png",
-		"address" : "6600 Sawmil Rd ",
+		"address" : "6600 Sawmil Rd",
 		"City" : "Columbus",
 		"State" : "OH",
 		"zip" : "43235",
@@ -15,19 +15,19 @@
 		"id" : 2,
 		"title" : "Saravanabavan",
 		"image_url" : "appicon.png",
-		"address" : "7645 William road, NY",
+		"address" : "7645 William road",
 		"tags" : ["Indian", "Asian", "Chinese"]
 	}, {
 		"id" : 3,
 		"title" : "Ahemad Brother",
 		"image_url" : "appicon.png",
-		"address" : "7675 Sawmil road, Texas",
+		"address" : "7675 Sawmil road",
 		"tags" : ["Indian", "Asian"]
 	}, {
 		"id" : 4,
 		"title" : "KFC",
 		"image_url" : "appicon.png",
-		"address" : "7675 Sawmil road, Texas",
+		"address" : "7675 Sawmil road",
 		"tags" : ["Indian", "Asian"]
 	}]
 }
