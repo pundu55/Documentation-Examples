@@ -15,13 +15,13 @@
       ],
       "hours": 
         {
-          "Monday": "10 AM - 8:30 PM",
-          "Tuesday": "10 AM - 8:30 PM",
-          "Wednesday": "10 AM - 8:30 PM",
-          "Thursday": "10- AM - 8:30 PM",
-          "Friday": "11 AM - 9 PM",
-          "Saturday": "11 AM - 9 PM",
-          "Sunday": "11 AM - 9 PM"
+          "monday": "10 AM - 8:30 PM",
+          "tuesday": "10 AM - 8:30 PM",
+          "wednesday": "10 AM - 8:30 PM",
+          "thursday": "10- AM - 8:30 PM",
+          "friday": "11 AM - 9 PM",
+          "saturday": "11 AM - 9 PM",
+          "sunday": "11 AM - 9 PM"
         }
       ,
       "website": "http://www.patelbros.com/"
