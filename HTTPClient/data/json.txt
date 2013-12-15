@@ -13,7 +13,7 @@
         "Indian",
         "Asian"
       ],
-      "hours": [
+      "hours": 
         {
           "Monday": "10 AM - 8:30 PM",
           "Tuesday": "10 AM - 8:30 PM",
@@ -23,7 +23,7 @@
           "Saturday": "11 AM - 9 PM",
           "Sunday": "11 AM - 9 PM"
         }
-      ],
+      ,
       "website": "http://www.patelbros.com/"
     },
     {
