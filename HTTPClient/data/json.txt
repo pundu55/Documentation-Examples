@@ -16,18 +16,18 @@
 		"title" : "Saravanabavan",
 		"image_url" : "appicon.png",
 		"address" : "7645 William road, NY",
-		"tags" : ["indian", "asian", "chinese"]
+		"tags" : ["Indian", "Asian", "Chinese"]
 	}, {
 		"id" : 3,
 		"title" : "Ahemad Brother",
 		"image_url" : "appicon.png",
 		"address" : "7675 Sawmil road, Texas",
-		"tags" : ["indian", "asian"]
+		"tags" : ["Indian", "Asian"]
 	}, {
 		"id" : 4,
 		"title" : "KFC",
 		"image_url" : "appicon.png",
 		"address" : "7675 Sawmil road, Texas",
-		"tags" : ["indian", "asian"]
+		"tags" : ["Indian", "Asian"]
 	}]
 }
