@@ -1,33 +1,61 @@
 {
-	"restaurants" : [{
-		"id" : 1,
-		"title" : "Patel Brother",
-		"image_url" : "appicon.png",
-		"address" : "6600 Sawmil Rd",
-		"City" : "Columbus",
-		"State" : "OH",
-		"zip" : "43235",
-		"phone" : "(614) 792-8484",
-		"tags" : ["Indian", "Asian"],
-		"working_days" : ["M", "Tu", "W", "Th", "F", "Sa", "Su"],
-		"website" : "http://www.patelbros.com/"
-	}, {
-		"id" : 2,
-		"title" : "Saravanabavan",
-		"image_url" : "appicon.png",
-		"address" : "7645 William road",
-		"tags" : ["Indian", "Asian", "Chinese"]
-	}, {
-		"id" : 3,
-		"title" : "Ahemad Brother",
-		"image_url" : "appicon.png",
-		"address" : "7675 Sawmil road",
-		"tags" : ["Indian", "Asian"]
-	}, {
-		"id" : 4,
-		"title" : "KFC",
-		"image_url" : "appicon.png",
-		"address" : "7675 Sawmil road",
-		"tags" : ["Indian", "Asian"]
-	}]
+  "restaurants": [
+    {
+      "id": 1,
+      "title": "Patel Brother",
+      "image_url": "appicon.png",
+      "address": "6600 Sawmil Rd",
+      "City": "Columbus",
+      "State": "OH",
+      "zip": "43235",
+      "phone": "(614) 792-8484",
+      "tags": [
+        "Indian",
+        "Asian"
+      ],
+      "hours": [
+        {
+          "Monday": "10 AM - 8:30 PM",
+          "Tuesday": "10 AM - 8:30 PM",
+          "Wednesday": "10 AM - 8:30 PM",
+          "Thursday": "10- AM - 8:30 PM",
+          "Friday": "11 AM - 9 PM",
+          "Saturday": "11 AM - 9 PM",
+          "Sunday": "11 AM - 9 PM"
+        }
+      ],
+      "website": "http://www.patelbros.com/"
+    },
+    {
+      "id": 2,
+      "title": "Saravanabavan",
+      "image_url": "appicon.png",
+      "address": "7645 William road",
+      "tags": [
+        "Indian",
+        "Asian",
+        "Chinese"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ahemad Brother",
+      "image_url": "appicon.png",
+      "address": "7675 Sawmil road",
+      "tags": [
+        "Indian",
+        "Asian"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "KFC",
+      "image_url": "appicon.png",
+      "address": "7675 Sawmil road",
+      "tags": [
+        "Indian",
+        "Asian"
+      ]
+    }
+  ]
 }
