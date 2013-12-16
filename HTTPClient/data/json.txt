@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Patel Brother",
-      "image_url": "http://www.ohioindia.us/images/columbus-patel.jpg",
+      "image_url": "http://www.personal.psu.edu/sid5024/png%20purple%20flower.htm",
       "address": "6600 Sawmil Rd",
       "City": "Columbus",
       "State": "OH",
