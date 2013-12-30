@@ -1,46 +1,46 @@
 {
-  "restaurants": [
+  "grocery": [
     {
       "id": 1,
-      "title": "Patel Brother",
+      "title": "Desi Restaurant",
       "image_url": "appicon.png",
-      "address": "6600 Sawmil Rd",
+      "address": "1100 Mine Rd",
       "City": "Columbus",
       "State": "OH",
-      "zip": "43235",
-      "phone": "(614) 792-8484",
+      "zip": "43240",
+      "phone": "(111) 222-3333",
       "tags": [
         "Indian",
         "Asian"
       ],
       "hours": {
-        "monday": "10 AM - 8:30 PM",
-        "tuesday": "10 AM - 8:30 PM",
-        "wednesday": "10 AM - 8:30 PM",
-        "thursday": "10 AM - 8:30 PM",
-        "friday": "11 AM - 9 PM",
-        "saturday": "11 AM - 9 PM",
+        "monday": "Closed",
+        "tuesday": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
+        "wednesday": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
+        "thursday": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
+        "friday": "11.30 AM - 3:00 PM, 05:00 PM - 11:00 PM",
+        "saturday": "11.30 AM - 3:00 PM, 05:00 PM - 11:00 PM",
         "sunday": "11 AM - 9 PM"
       },
-      "website": "http://www.patelbros.com/",
+      "website": "http://www.restaurant.com/",
       "pictures": [
         {
           "id": 1001,
-          "url": "http://www.statusmexico.com/app/60/destacados/fraser60.jpg",
+          "url": "http://www.dakshincolumbus.com/images/gallery/gallery_large1.jpg",
           "likes_count": 12,
           "comments_count": 13,
           "created_at": "2010/08/23 15:32:13 -0400"
         },
         {
           "id": 1002,
-          "url": "http://www.statusmexico.com/app/60/destacados/patek60.jpg",
+          "url": "http://www.dakshincolumbus.com/images/gallery/gallery_large3.jpg",
           "likes_count": 10,
           "comments_count": 4,
           "created_at": "2010/08/23 15:32:13 -0400"
         },
         {
           "id": 1003,
-          "url": "http://www.statusmexico.com/app/60/destacados/fendi.jpg",
+          "url": "http://www.dakshincolumbus.com/images/gallery/gallery_large3.jpg",
           "likes_count": 21,
           "comments_count": 3,
           "created_at": "2010/08/23 15:32:13 -0400"
