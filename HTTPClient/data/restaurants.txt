@@ -1,5 +1,5 @@
 {
-  "grocery": [
+  "restaurants": [
     {
       "id": 1,
       "title": "Desi Restaurant",
