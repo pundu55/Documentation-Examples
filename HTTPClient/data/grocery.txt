@@ -1,5 +1,5 @@
 {
-  "restaurants": [
+  "grocery": [
     {
       "id": 1,
       "title": "Patel Brother",
