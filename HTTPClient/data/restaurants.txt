@@ -1,1 +1,82 @@
-restaurants txt
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "title": "Patel Brother",
+      "image_url": "appicon.png",
+      "address": "6600 Sawmil Rd",
+      "City": "Columbus",
+      "State": "OH",
+      "zip": "43235",
+      "phone": "(614) 792-8484",
+      "tags": [
+        "Indian",
+        "Asian"
+      ],
+      "hours": {
+        "monday": "10 AM - 8:30 PM",
+        "tuesday": "10 AM - 8:30 PM",
+        "wednesday": "10 AM - 8:30 PM",
+        "thursday": "10 AM - 8:30 PM",
+        "friday": "11 AM - 9 PM",
+        "saturday": "11 AM - 9 PM",
+        "sunday": "11 AM - 9 PM"
+      },
+      "website": "http://www.patelbros.com/",
+      "pictures": [
+        {
+          "id": 1001,
+          "url": "http://www.statusmexico.com/app/60/destacados/fraser60.jpg",
+          "likes_count": 12,
+          "comments_count": 13,
+          "created_at": "2010/08/23 15:32:13 -0400"
+        },
+        {
+          "id": 1002,
+          "url": "http://www.statusmexico.com/app/60/destacados/patek60.jpg",
+          "likes_count": 10,
+          "comments_count": 4,
+          "created_at": "2010/08/23 15:32:13 -0400"
+        },
+        {
+          "id": 1003,
+          "url": "http://www.statusmexico.com/app/60/destacados/fendi.jpg",
+          "likes_count": 21,
+          "comments_count": 3,
+          "created_at": "2010/08/23 15:32:13 -0400"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Saravanabavan",
+      "image_url": "appicon.png",
+      "address": "7645 William road",
+      "tags": [
+        "Indian",
+        "Asian",
+        "Chinese"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ahemad Brother",
+      "image_url": "appicon.png",
+      "address": "7675 Sawmil road",
+      "tags": [
+        "Indian",
+        "Asian"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "KFC",
+      "image_url": "appicon.png",
+      "address": "7675 Sawmil road",
+      "tags": [
+        "Indian",
+        "Asian"
+      ]
+    }
+  ]
+}
