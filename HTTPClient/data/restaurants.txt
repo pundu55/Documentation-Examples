@@ -14,9 +14,9 @@
         "Asian"
       ],
       "hours": {
-        "Closed on": "Monday",
-        "Lunch":"11.30 am - 3:00 pm",
-        "Dinner":"05:00 pm - 10:00 pm"
+        "closed_on": "Monday",
+        "lunch":"11.30 am - 3:00 pm",
+        "dinner":"05:00 pm - 10:00 pm"
        
       },
       "website": "http://www.restaurant.com/",
