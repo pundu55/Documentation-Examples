@@ -14,13 +14,13 @@
         "Asian"
       ],
       "hours": {
-        "monday": "Closed",
-        "tuesday": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
-        "wednesday": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
-        "thursday": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
-        "friday": "11.30 AM - 3:00 PM, 05:00 PM - 11:00 PM",
-        "saturday": "11.30 AM - 3:00 PM, 05:00 PM - 11:00 PM",
-        "sunday": "11 AM - 9 PM"
+        "mo": "Closed",
+        "tu": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
+        "we": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
+        "th": "11.30 AM - 3:00 PM, 05:00 PM - 10:00 PM",
+        "fr": "11.30 AM - 3:00 PM, 05:00 PM - 11:00 PM",
+        "sa": "11.30 AM - 3:00 PM, 05:00 PM - 11:00 PM",
+        "su": "11 AM - 9 PM"
       },
       "website": "http://www.restaurant.com/",
       "pictures": [
