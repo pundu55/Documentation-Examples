@@ -9,6 +9,7 @@
       "State": "OH",
       "zip": "43240",
       "phone": "(111) 222-3333",
+      "stars":"3",
       "tags": [
         "Indian",
         "Asian"
