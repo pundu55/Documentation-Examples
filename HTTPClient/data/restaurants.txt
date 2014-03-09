@@ -50,6 +50,7 @@
       "title": "Saravanabavan",
       "image_url": "appicon.png",
       "address": "7645 William road",
+       "stars":"4",
       "tags": [
         "Indian",
         "Asian",
@@ -61,6 +62,7 @@
       "title": "Ahemad Brother",
       "image_url": "appicon.png",
       "address": "7675 Sawmil road",
+       "stars":"3.5",
       "tags": [
         "Indian",
         "Asian"
@@ -70,6 +72,7 @@
       "id": 4,
       "title": "KFC",
       "image_url": "appicon.png",
+       "stars":"2.5",
       "address": "7675 Sawmil road",
       "tags": [
         "Indian",
