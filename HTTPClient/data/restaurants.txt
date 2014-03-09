@@ -9,7 +9,7 @@
       "State": "OH",
       "zip": "43240",
       "phone": "(111) 222-3333",
-      "stars":"3",
+      "stars":"3.25",
       "tags": [
         "Indian",
         "Asian"
@@ -50,7 +50,7 @@
       "title": "Saravanabavan",
       "image_url": "appicon.png",
       "address": "7645 William road",
-       "stars":"4",
+       "stars":"4.12",
       "tags": [
         "Indian",
         "Asian",
@@ -62,7 +62,7 @@
       "title": "Ahemad Brother",
       "image_url": "appicon.png",
       "address": "7675 Sawmil road",
-       "stars":"3.5",
+       "stars":"3.89",
       "tags": [
         "Indian",
         "Asian"
@@ -72,7 +72,7 @@
       "id": 4,
       "title": "KFC",
       "image_url": "appicon.png",
-       "stars":"2.5",
+       "stars":"1.9",
       "address": "7675 Sawmil road",
       "tags": [
         "Indian",
